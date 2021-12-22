@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1637120655 source:e:\debug project\c\base64_test\base64.c
+	<stdint.h>
+	"base64.h"
+
+1637048869 e:\debug project\c\base64_test\base64.h
+
+1637985077 source:e:\debug project\c\base64_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stdint.h"
+	"base64.h"
+
